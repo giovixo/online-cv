@@ -15,7 +15,7 @@ sidebar:
   # Sidebar links
   email: example@email.com
   phone: 012 345 6789
-  timezone: Europe/Rome # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  timezone: # Europe/Rome # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website:  # Include the full website URL, including "http://" or "https://".
   linkedin: 
@@ -44,7 +44,7 @@ sidebar:
       level: Professional
 
     - idiom: Franch
-      level: Professional
+      level: Intermediate
 
   interests:
     title: Interests
