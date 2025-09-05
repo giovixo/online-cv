@@ -3,7 +3,7 @@
 
     {% if sidebar.email %}
     <li class="email"><i class="fas fa-envelope"></i>
-      Email: <a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
+      Mail: <a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
     </li>
     {% endif %}
 
@@ -60,8 +60,6 @@
       ORCID: <a href="https://orcid.org/{{ sidebar.orcid }}" target="_blank">{{ sidebar.orcid }}</a>
     </li>
     {% endif %}
-
-
 
     {% if sidebar.gitlab %}
     <li class="gitlab"><i class="fab fa-gitlab"></i>

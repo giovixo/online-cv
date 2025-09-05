@@ -13,7 +13,7 @@ sidebar:
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  mail: giovanni.decesare@inaf.it
+  email: giovanni.decesare@inaf.it
   phone: +39 051 6398776
   timezone: # Europe/Rome # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
