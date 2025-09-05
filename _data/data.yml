@@ -13,8 +13,8 @@ sidebar:
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
+  email: giovanni.decesare@inaf.it
+  phone: +39 051 6398776
   timezone: # Europe/Rome # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website:  # Include the full website URL, including "http://" or "https://".
@@ -222,7 +222,7 @@ oss:
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-  title: Publications
+  title: Random publications
   intro: |
     You can list your publications in this section. Lorem ipsum dolor sit
     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
